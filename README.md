@@ -1,7 +1,7 @@
 # edaa-lista-quatro-2024
 
 ### Grupo:
-- Cesar
+- Cesar Martins
 - Gabriel Galdino
 - Lucas Marques da Silva
 
